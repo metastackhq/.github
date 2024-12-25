@@ -22,6 +22,6 @@ bringing the system of operation from the best teams in the world to all players
 
 ## Founders
 
-- [@feedcs2](https://twitter.com/feedcs2) Mihajlo Petrović
+- [@mihajlo94](https://github.com/mihajlo94) Mihajlo Petrović
 - [@milosnikic](https://www.github.com/milosnikic) Miloš Nikić
 - [@sava-vidakovic](https://github.com/sava-vidakovic) Sava Vidaković
