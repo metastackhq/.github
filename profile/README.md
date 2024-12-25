@@ -1,4 +1,4 @@
-![Logo](https://github.com/metastackhq/metastack/blob/develop/docs/metastack.png?raw=true)
+![Logo](https://i.imgur.com/pGSwqfd.png)
 
 # Metastack
 
